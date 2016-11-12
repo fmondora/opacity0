@@ -1,7 +1,7 @@
 # starter-node-bot
 
 ## Overview
-A simple starting point for creating a Beep Boop hostable, Node.js based Slack bot with botkit
+opacity0 bot!
 
 Visit [Beep Boop](https://beepboophq.com/docs/article/overview) to get the scoop on the the Beep Boop hosting platform. The Slack API documentation can be found [here](https://api.slack.com/).
 
@@ -35,4 +35,3 @@ This code uses the [botkit](https://github.com/howdyai/botkit) npm module by the
 ## License
 
 See the [LICENSE](LICENSE.md) file (MIT).
-
